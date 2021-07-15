@@ -3,6 +3,7 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		System.out.println("Apresentação de prática");
+		System.out.println("Commit em hotfix");
 
 	}
 
